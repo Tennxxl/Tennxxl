@@ -23,8 +23,7 @@ I’m Tennxxl, a creative developer who builds modern web experiences and powerf
 
 
 ### 📊 Stats
-
-![Tennxxl's Github Stats]((https://github-readme-stats.vercel.app/api?username=tennxxl&show_icons=true&theme=radical))
+![Tennxxl's Stats](https://github-readme-stats.vercel.app/api?username=Tennxxl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 #
