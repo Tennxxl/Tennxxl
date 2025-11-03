@@ -18,13 +18,10 @@ I’m Tennxxl, a creative developer who builds modern web experiences and powerf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50" height="50" alt="Discord.js
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50" height="50" alt="Discord.js"/>
 
 ### 📊 Stats
 ![Tennxxl's Stats](https://github-readme-stats.vercel.app/api?username=Tennxxl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 
 #
 [website]: https://tenxl.dev
