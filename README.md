@@ -24,9 +24,8 @@ I’m Tennxxl, a creative developer who builds modern web experiences and powerf
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tennxxl&show_icons=true&theme=gruvbox)
+![Tennxxl's Github Stats]((https://github-readme-stats.vercel.app/api?username=tennxxl&show_icons=true&theme=radical))
 
 
 #
 [website]: https://tenxl.dev
----
