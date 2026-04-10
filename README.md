@@ -1,7 +1,7 @@
 # Tennxxl
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Creative+Developer;Modern+Web+Experiences;Discord+Bot+Engineer;Clean+%26+Powerful+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Modern+UIs;Clean+Web+Designs;High-end+code" />
 </p>
 
 ---
